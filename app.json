@@ -1,0 +1,6 @@
+{
+  "name": "utf82shiftjis",
+  "description": "utf8 file convert to shiftjis",
+  "repository": "https://github.com/pyonk/utf82shiftjis",
+  "keywords": ["go", "converter"]
+}
